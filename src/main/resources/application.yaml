@@ -1,0 +1,17 @@
+#对象
+person1:
+  name: zhangsan
+  age: 18
+
+person2: {name: zhangsan,age: 20}
+
+#数组
+address1:
+  - beijing
+  - shanghai
+
+address2: [beijing,shanghai]
+
+#纯量
+msg1: 'hello \n world'    #原样输出，不转换
+msg2: "hello \n world"

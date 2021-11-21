@@ -1,0 +1,3 @@
+org.springframework.boot.SpringApplicationRunListener =com.ray.springboot.listener.MySpringApplicationRunListener
+
+org.springframework.boot.CommandLineRunner = com.ray.springboot.listener.MyApplicationRunner
